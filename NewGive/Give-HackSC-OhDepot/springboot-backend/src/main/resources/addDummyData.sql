@@ -1,0 +1,21 @@
+INSERT INTO Cards (title, taxID, orgMessage, organization)
+VALUES ('Nathan Sparks Ball Donation', '00-0000000', 'To me the most important thing is to have children play with balls. As a child I was deprived of balls when I desperatly wantd them. Therefore, I would not like children of this age to suffer the same fate. Please give me money to donate balls.', 'Sparky Boy Foundation'),
+       ('Find the Biggest Bird', '00-0000001', 'I just need to find the biggest bird. As one does. But to do that I need your help. Give me money', 'William Fredrick Johns Initiave'),
+       ('Get Some Help Fundraiser', '00-0000002', 'I mean, some people just need to get some help. Like look at Joe Biden. That man, he needs some help. Lets get these people help. Now give me money to give them help. I will not take any of it. I promise ;)', 'Help Me Foundation'),
+       ('title example 101', '00-0000003', 'sample organization message 101', 'example organization name 101'),
+       ('title example 202', '00-0000004', 'sample organization message 202', 'example organization name 202'),
+       ('title example 303', '00-0000005', 'sample organization message 303', 'example organization name 303'),
+       ('title example 404', '00-0000006', 'sample organization message 404', 'example organization name 404'),
+       ('title example 505', '00-0000007', 'sample organization message 505', 'example organization name 505'),
+       ('title example 606', '00-0000008', 'sample organization message 606', 'example organization name 606'),
+       ('title example 707', '00-0000009', 'sample organization message 707', 'example organization name 707'),
+       ('title example 808', '00-0000010', 'sample organization message 808', 'example organization name 808'),
+       ('title example 909', '00-0000011', 'sample organization message 909', 'example organization name 909'),
+       ('title example 000', '00-0000012', 'sample organization message 000', 'example organization name 000'),
+       ('title example 111', '00-0000013', 'sample organization message 111', 'example organization name 111'),
+       ('title example 222', '00-0000014', 'sample organization message 222', 'example organization name 222'),
+       ('title example 333', '00-0000015', 'sample organization message 333', 'example organization name 333'),
+       ('title example 444', '00-0000016', 'sample organization message 444', 'example organization name 444'),
+       ('title example 555', '00-0000017', 'sample organization message 555', 'example organization name 555'),
+       ('title example 666', '00-0000018', 'sample organization message 666', 'example organization name 666');
+
